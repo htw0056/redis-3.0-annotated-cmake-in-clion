@@ -88,7 +88,7 @@ add_subdirectory(linenoise)
 add_subdirectory(lua)
 ```
 
-##### 5. redis-3.0-annotated目录下新增`CMakeLists.txt5
+##### 5. redis-3.0-annotated目录下新增`CMakeLists.txt5`
 
 ```cmake
 cmake_minimum_required(VERSION 3.0 FATAL_ERROR)
