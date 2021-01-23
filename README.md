@@ -1,3 +1,7 @@
+> 最新版CLion已支持Makefile，无需改造即可直接在CLion中运行Redis
+
+>  NOTE: [Makefile projects in CLion: now public!](https://blog.jetbrains.com/clion/2020/06/makefile-projects-in-clion/)
+
 # CLion调试redis源码
 
 ## 背景
